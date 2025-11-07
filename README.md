@@ -61,4 +61,3 @@ A coleção [`OndeTaMoto-API-Tests.postman_collection.json`](./OndeTaMoto-API-Te
 **Murilo Capristo** (RM: 556794)  
 **Guilherme Romanholi Santos** (RM: 557462)
 
-Projeto desenvolvido para disciplina de **Testes de Software** - Curso de Análise e Desenvolvimento de Sistemas.
