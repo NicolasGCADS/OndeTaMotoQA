@@ -9,6 +9,9 @@ Este repositório contém os artefatos de teste para validação do sistema:
 - A **Collection Postman** para automação de testes das principais rotas da API.
 
 ---
+## Link do Video 
+
+---
 
 ## 🧩 Parte A - Plano de Testes Manuais (Azure Boards)
 
