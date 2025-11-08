@@ -84,6 +84,7 @@ Remover moto por ID
 DELETE /api/Moto/1
 Accept: application/json
 
+```
 
 
 ### 🔗 Endpoints e Casos de Teste Automatizados:
