@@ -35,12 +35,15 @@ Os testes manuais de nível de sistema para as funcionalidades principais do pro
 | **4) Procedimento (Passos)** | Acessar "Cadastro de Motos" > Inserir código da tagRFID válida > Preencher informações da moto > Clicar em "Salvar". |
 
 **Instruções de Acesso:** O plano de testes está estruturado no Azure Boards: `Test Plan` → `Plano de Testes - OndeTáMoto` → `Test Suite` → `Funcionalidades Principais`.
+**Possui o PDF com os testes Manuais caso precise com nome de Casos-de-Teste-OndeTaMoto (2).pdf no proprio Github** 
 
 ---
 
 ## 🤖 Parte B - Testes Automatizados (Postman)
 
 A coleção [`OndeTaMoto-API-Tests.postman_collection.json`](./OndeTaMoto-API-Tests.postman_collection.json) cobre **4 casos de testes automatizados** (Item 5), validando as principais rotas da API REST do backend, essenciais para o funcionamento do sistema.
+
+Rode no swagger que será esse link: http://191.235.235.207:5294/swagger/index.html
 
 ### 🔗 Endpoints e Casos de Teste Automatizados:
 
