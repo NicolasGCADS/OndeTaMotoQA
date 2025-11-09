@@ -31,7 +31,7 @@ Os testes manuais de nível de sistema para as funcionalidades principais do pro
 
 ---
 
-## 🤖 Parte B - Testes Automatizados (Postman)
+## 🤖 Parte B - Testes Automatizados (Swagger)
 
 Use o Swagger (http://191.235.235.207:5294/swagger/index.html) e os exemplos a baixo 
 
