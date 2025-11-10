@@ -42,6 +42,7 @@ Use o Swagger (http://191.235.235.207:5294/swagger/index.html) e os exemplos a b
 ```json
 
 
+
 Criar uma nova moto
 
 POST /api/Moto
@@ -66,6 +67,9 @@ Content-Type: application/json
   "tag": "aloHonda123",
   "placa": 1234567
 }
+
+
+
 
 
 
