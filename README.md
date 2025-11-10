@@ -82,7 +82,6 @@ Content-Type: application/json
 |--------|-----------|-----------|
 | POST | /api/moto | **Criar nova moto** (Simula o cadastro inicial) |
 | PUT | /api/moto/{id} | **Atualizar moto** (Simula a alteração de status/informações) |
-| POST | /api/usuario | **Criar usuário** (Simula o cadastro de um novo operador Mottu) |
 
 ### ⚙️ Instruções de Execução:
 1.  Abra o link do Swagger
