@@ -6,10 +6,12 @@ O projeto **OndeTáMoto?** é uma solução baseada em **IoT (Internet das Coisa
 
 Este repositório contém os artefatos de teste para validação do sistema:
 - O **Plano de Testes Manuais** (documento com os Casos de Teste CT-001 a CT-005).
-- A **Collection Postman** para automação de testes das principais rotas da API.
+- A **Api** para testes das principais rotas 
 
 ---
+
 ## Link do Video 
+https://www.youtube.com/watch?v=kZWXGFVOh-M
 
 ---
 
@@ -39,13 +41,6 @@ Use o Swagger (http://191.235.235.207:5294/swagger/index.html) e os exemplos a b
 
 ```json
 
-🏍️ Moto
-
-Listar todas as motos
-
-GET /api/Moto
-Accept: application/json
-
 
 Criar uma nova moto
 
@@ -58,12 +53,6 @@ Content-Type: application/json
   "tag": "alomottu2",
   "placa": "1236784"
 }
-
-
-Obter moto por ID
-
-GET /api/Moto/1
-Accept: application/json
 
 
 Atualizar moto por ID
@@ -79,10 +68,6 @@ Content-Type: application/json
 }
 
 
-Remover moto por ID
-
-DELETE /api/Moto/1
-Accept: application/json
 
 ```
 
@@ -92,7 +77,6 @@ Accept: application/json
 | Método | Endpoint | Caso de Teste Automatizado |
 |--------|-----------|-----------|
 | POST | /api/moto | **Criar nova moto** (Simula o cadastro inicial) |
-| GET | /api/moto | **Listar motos** (Simula a consulta de frota, como no Mobile) |
 | PUT | /api/moto/{id} | **Atualizar moto** (Simula a alteração de status/informações) |
 | POST | /api/usuario | **Criar usuário** (Simula o cadastro de um novo operador Mottu) |
 
